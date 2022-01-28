@@ -15,3 +15,8 @@ Run it and see the magic of hand pose tracking
 There are various uses to hand pose tracking like volume control, gesture control (in the field of robotics too), etc.
 
 <img width="708" alt="Result01" src="https://user-images.githubusercontent.com/86947956/151518827-4d71922c-4661-4347-80f8-a08279666443.png">
+
+
+References -
+1. MediaPipe - https://mediapipe.dev
+2. Open Cv - https://opencv.org
