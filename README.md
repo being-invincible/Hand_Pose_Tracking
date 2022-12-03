@@ -16,7 +16,7 @@ There are various uses to hand pose tracking like volume control, gesture contro
 
 <img width="708" alt="Result01" src="https://user-images.githubusercontent.com/86947956/151518827-4d71922c-4661-4347-80f8-a08279666443.png">
 
-Title of the Project: #### Cursor Control by Hand Gestures
+#### Title of the Project: Cursor Control by Hand Gestures
 
 #### Problem Definition/ Abstract:
 World swifts towards technology much faster every day such as AI, VR, etc. The 
